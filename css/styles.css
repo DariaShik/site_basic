@@ -1,19 +1,19 @@
 html,body {
     background-color: #e3eef2;
-    margin: 0px;
+    margin: 30px;
 }
 
 .wrapper {
-    background-color: #bc7676;
+    background-color: #a6d6f2;
      padding: 18px;
     display: flex;
     flex-direction: column; 
-    /* justify-content: space-between; */
-    /* align-content: stretch; */
-    /* height: 100vh; */
+     justify-content: space-between; 
+     align-content: stretch;
+     height: 100vh; 
 }
-.module_1 {background-color: rgb(44, 158, 173);
-    min-width: 300px;
+.module_1 {background-color: rgb(169, 234, 243);
+    min-width: 300px; 
 
 }
 .module_2 {background-color: rgb(101, 191, 207);
